@@ -4,6 +4,7 @@ A small web app that runs the trained U-Net (ResNet-34 encoder) from the dissert
 *Deep Learning-Based Removal of Synthetic Grid Artifacts in Paediatric Chest X-ray Using U-Net*.
 
 ## Quick start (about 5 minutes the first time)
+download the ai model and place it next to app.py https://drive.google.com/file/d/133ya7VA8bqaAmMTOj49TTE8iPv_CMyfK/view?usp=sharing
 
 **Windows:** double-click **`run.bat`**.
 **macOS / Linux:** open a terminal in this folder and run `bash run.sh`.
